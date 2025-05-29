@@ -5,9 +5,11 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/jaimehenao8126)  
 🌐 [Blog](https://jaimehenao2681.wordpress.com)
 
-[![Live CV](https://img.shields.io/badge/Live_CV-GitHub_Pages-blue?logo=github)](https://<tu-usuario>.github.io/<repo>)  
-[![CV Markdown - Spanish](https://img.shields.io/badge/CV-Español-green)](./cv-jaimeandres.md)  
-[![CV Markdown - English](https://img.shields.io/badge/CV-English-blue)](./cv-jaimeandres-en.md)
+[![Live CV](https://img.shields.io/badge/Live_CV-GitHub_Pages-blue?logo=github)](https://portfolio-jaime.github.io/cv-JaimeAndres/)  
+[![CV Markdown - Spanish](https://img.shields.io/badge/CV-Español-green)](./CV-md/CV-Jaime Andres Henao.md)  
+[![CV Markdown - English](https://img.shields.io/badge/CV-English-blue)](./CV-md/CV-Jaime Andres Henao.md)
+[![CV PDF - English](https://img.shields.io/badge/CV-English-blue)](./CV-pdf/CV Jaime Andres Henao A.pdf)
+[![CV PDF - spanish](https://img.shields.io/badge/CV-English-blue)](./CV-pdf/CV Jaime Andres Henao.pdf)
 
 ---
 
