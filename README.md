@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/devops.jpg" alt="Cloud DevOps Header" width="100%" style="max-width:220px; border-radius: 12px;">
+  <img src="images/devops.jpg" alt="Cloud DevOps Header" width="100%" style="max-width:120px; border-radius: 12px;">
 </p>
 
 # Jaime Andrés Henao A. – Cloud & DevOps Engineer
