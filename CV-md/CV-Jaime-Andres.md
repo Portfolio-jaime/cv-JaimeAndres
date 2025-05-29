@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../images/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
+</p>
+
 # Jaime Andrés Henao A. – Cloud Engineer / DevOps
 
 📍 Medellín, Colombia | ☁️ Relocatable to EU
@@ -94,3 +98,6 @@ Centro de Estudios Stucom – Barcelona, España (Jun. 2021)
 🌐 [Blog](https://jaimehenao2681.wordpress.com)
 
 ---
+
+# Jaime Andrés Henao A. – Cloud & DevOps Engineer
+...existing code...

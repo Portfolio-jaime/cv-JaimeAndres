@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
+  <img src="../images/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
 </p>
 
 # Jaime Andrés Henao A. – Cloud & DevOps Engineer

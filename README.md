@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80" alt="Cloud DevOps Header" width="100%" style="max-width:700px; border-radius: 12px;">
 </p>
 
 # Jaime Andrés Henao A. – Cloud & DevOps Engineer
@@ -48,7 +48,7 @@ cv-JaimeAndres/
 ├── index.html                # Landing page (English)
 ├── README.md                 # This file
 │
-├── assests/
+├── images/
 │   └── photo-jaime.jpg       # Profile photo
 │
 ├── CV-html/
