@@ -17,8 +17,7 @@
 
 This repository contains my professional curriculum vitae (CV) in multiple formats and languages:
 
-- [`index.html`](index.html): Landing page CV (English), hosted via GitHub Pages  
-- [`CV-html/CV-Jaime Andres Henao.html`](CV-html/CV-Jaime%20Andres%20Henao.html): Full HTML CV  
+- [`index.html`](index.html): Landing page CV (English), hosted via GitHub Pages    
 - [`CV-md/CV-Jaime-Andres-Henao.md`](CV-md/CV-Jaime-Andres-Henao.md): Markdown CV (Español)  
 - [`CV-md/CV-Jaime-Andres-Henao-A.md`](CV-md/CV-Jaime-Andres-Henao-A.md): Markdown CV (English)  
 - [`CV-pdf/`](CV-pdf/): PDF versions (Español & English)  
