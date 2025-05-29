@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assests/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
+</p>
+
 # Jaime Andrés Henao A. – Cloud & DevOps Engineer
 
 📍 Medellín, Colombia &nbsp;|&nbsp; ☁️ Open to Relocation in EU  
@@ -43,6 +47,9 @@ cv-JaimeAndres/
 │
 ├── index.html                # Landing page (English)
 ├── README.md                 # This file
+│
+├── assests/
+│   └── photo-jaime.jpg       # Profile photo
 │
 ├── CV-html/
 │   └── CV-Jaime Andres Henao.html
