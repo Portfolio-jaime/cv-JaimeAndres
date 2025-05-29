@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
+  <img src="../images/devops.jpg" alt="Cloud DevOps Header" width="100%" style="max-width:400px; border-radius: 12px;">
 </p>
 
 # Jaime Andrés Henao A. – Cloud & DevOps Engineer
