@@ -1,11 +1,18 @@
-<p align="center">
-  <img src="../images/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
-</p>
-
-# Jaime Andrés Henao A. – Cloud & DevOps Engineer
-
-📍 Medellín, Colombia | ☁️ Open to Relocation in EU
-📧 [jaimehenao13424@correo.itm.edu.co](mailto:jaimehenao13424@correo.itm.edu.co) | 🔗 [LinkedIn](https://www.linkedin.com/in/jaimehenao8126) | 🌐 [Blog](https://jaimehenao2681.wordpress.com)
+<table>
+  <tr>
+    <td width="150">
+      <img src="../images/photo-jaime.jpg" alt="Jaime Andrés Henao" width="120" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>Jaime Andrés Henao A.</h1>
+      <b>Cloud & DevOps Engineer</b><br>
+      📍 Medellín, Colombia &nbsp;|&nbsp; ☁️ Open to Relocation in EU<br>
+      📧 <a href="mailto:jaimehenao13424@correo.itm.edu.co">jaimehenao13424@correo.itm.edu.co</a> &nbsp;|&nbsp;
+      <a href="https://www.linkedin.com/in/jaimehenao8126">LinkedIn</a> &nbsp;|&nbsp;
+      <a href="https://jaimehenao2681.wordpress.com">Blog</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
