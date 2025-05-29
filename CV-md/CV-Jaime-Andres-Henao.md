@@ -1,4 +1,8 @@
-# Jaime Andrés Henao A. – Cloud Engineer / DevOps
+<p align="center">
+  <img src="../assets/photo-jaime.jpg" alt="Jaime Andrés Henao" width="140" style="border-radius: 50%;">
+</p>
+
+# Jaime Andrés Henao A. – Cloud & DevOps Engineer
 
 📍 Medellín, Colombia | ☁️ Relocatable to EU  
 📧 jaimehenao13424@correo.itm.edu.co | 🔗 [LinkedIn](https://www.linkedin.com/in/jaimehenao8126) | 🌐 [Blog](https://jaimehenao2681.wordpress.com)
